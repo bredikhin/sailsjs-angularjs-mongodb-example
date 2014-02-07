@@ -1,3 +1,3 @@
-# sailsAngularSeed
+# Sails.js, Angular.js, MongoDB example application (MEANS stack)
 
-a [Sails](http://sailsjs.org) application
+Based on https://github.com/balderdashy/sails-angular-seed.
